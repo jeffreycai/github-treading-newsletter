@@ -49,10 +49,8 @@ Stay updated with what's trending on GitHub every day with this Python script. I
     Execute the script:
 
     ```bash
-    python script_name.py
+    make run
     ```
-
-    Replace `script_name.py` with the actual name of the script.
 
 ## Caution
 
